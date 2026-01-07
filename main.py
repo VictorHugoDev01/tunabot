@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()  # lê o arquivo .env
-TOKEN = os.getenv("MTQ1MDU4NDM4OTY4Njc4ODMwMg.G6_grH.GOh5W6mgbAGYheLs6T4z4fGq09EOl_Rmxv3SNs")  # pega o token secreto
+TOKEN = os.getenv("TOKEN")  # pega o token secreto
 
 
 # ======================================================
